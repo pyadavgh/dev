@@ -108,8 +108,6 @@
 				<configuration>
 					<!-- Web Context root -->
 					<warName>BuildAndQualityLab</warName>
-					<!-- deployable war location -->
-					<outputDirectory>deploy/artifacts/</outputDirectory>
 				</configuration>
 			</plugin>
 		</plugins>
